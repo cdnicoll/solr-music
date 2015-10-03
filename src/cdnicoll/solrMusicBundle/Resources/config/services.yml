@@ -1,0 +1,10 @@
+services:
+#    cdnicollsolr_music.example:
+#        class: cdnicoll\solrMusicBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
+    itunes.xml.parser:
+        class: cdnicoll\solrMusicBundle\Services\iTunesXMLParserService
+
+    solr.service:
+        class: cdnicoll\solrMusicBundle\Services\SolrService
+        arguments: [@solarium.client.default]

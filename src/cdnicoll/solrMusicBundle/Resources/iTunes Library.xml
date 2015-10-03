@@ -1,0 +1,1816 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Application Version</key><string>12.2.1.16</string>
+	<key>Date</key><date>2015-09-28T18:01:11Z</date>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Library Persistent ID</key><string>75E3BBFA2E3D179A</string>
+	<key>Tracks</key>
+	<dict>
+		<key>80</key>
+		<dict>
+			<key>Track ID</key><integer>80</integer>
+			<key>Size</key><integer>57344</integer>
+			<key>Date Modified</key><date>2014-06-21T05:44:20Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:06Z</date>
+			<key>Release Date</key><date>2013-08-04T12:00:00Z</date>
+			<key>Persistent ID</key><string>B048D12FB901C538</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>8</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+			<key>Name</key><string>Harry Potter And The Order Of Phoenix</string>
+			<key>Artist</key><string>J.K Rowling</string>
+			<key>Album</key><string>Harry Potter And The Order Of Phoenix</string>
+			<key>Kind</key><string>Book</string>
+			<key>Sort Artist</key><string>Rowling, J.K</string>
+			<key>Location</key><string>file:///Users/conicoll/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books/B1166068AC1B31AAB048D12FB901C538.epub/</string>
+		</dict>
+		<key>82</key>
+		<dict>
+			<key>Track ID</key><integer>82</integer>
+			<key>Size</key><integer>196608</integer>
+			<key>Date Modified</key><date>2014-06-21T05:45:47Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:06Z</date>
+			<key>Release Date</key><date>2012-04-17T12:00:00Z</date>
+			<key>Persistent ID</key><string>93C1DD3B1388F50E</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>8</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+			<key>Name</key><string>All Harry Potter Characters from all 7 books.</string>
+			<key>Artist</key><string>Ferbooch</string>
+			<key>Album</key><string>All Harry Potter Characters from all 7 books.</string>
+			<key>Kind</key><string>Book</string>
+			<key>Sort Artist</key><string>Ferbooch, Ferbooch</string>
+			<key>Location</key><string>file:///Users/conicoll/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books/F36FD2721EAE1F8993C1DD3B1388F50E.epub/</string>
+		</dict>
+		<key>84</key>
+		<dict>
+			<key>Track ID</key><integer>84</integer>
+			<key>Size</key><integer>3112960</integer>
+			<key>Date Modified</key><date>2014-06-21T05:48:15Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:06Z</date>
+			<key>Release Date</key><date>2001-01-02T08:00:00Z</date>
+			<key>Persistent ID</key><string>3D0163080671F421</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>8</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+			<key>Name</key><string>Harry Potter 5 - Harry Potter and the Order of the Phoenix</string>
+			<key>Artist</key><string>J. K. Rowling</string>
+			<key>Album</key><string>Harry Potter 5 - Harry Potter and the Order of the Phoenix</string>
+			<key>Genre</key><string>Fiction</string>
+			<key>Kind</key><string>Book</string>
+			<key>Sort Artist</key><string>Rowling, J. K. &#38;amp; Grandpré, Mary</string>
+			<key>Location</key><string>file:///Users/conicoll/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books/FDFE2A6EA22A68D73D0163080671F421.epub/</string>
+		</dict>
+		<key>86</key>
+		<dict>
+			<key>Track ID</key><integer>86</integer>
+			<key>Size</key><integer>42487808</integer>
+			<key>Date Modified</key><date>2015-04-17T16:25:11Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:06Z</date>
+			<key>Release Date</key><date>2013-01-30T22:00:00Z</date>
+			<key>Persistent ID</key><string>9F8185F0CFE1CD6F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>8</integer>
+			<key>Library Folder Count</key><integer>2</integer>
+			<key>Name</key><string>Practical Electronics for Inventors</string>
+			<key>Artist</key><string>Scherz, Paul</string>
+			<key>Album</key><string>Practical Electronics for Inventors</string>
+			<key>Genre</key><string>-</string>
+			<key>Kind</key><string>Book</string>
+			<key>Location</key><string>file:///Users/conicoll/Library/Containers/com.apple.BKAgentService/Data/Documents/iBooks/Books/827CF8B171B84FA39F8185F0CFE1CD6F.epub/</string>
+		</dict>
+		<key>88</key>
+		<dict>
+			<key>Track ID</key><integer>88</integer>
+			<key>Size</key><integer>6990539</integer>
+			<key>Total Time</key><integer>333348</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-04-19T08:37:38Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6B3E968C3559CDAE</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>There's No Secrets This Year</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/01%20There's%20No%20Secrets%20This%20Year.mp3</string>
+		</dict>
+		<key>90</key>
+		<dict>
+			<key>Track ID</key><integer>90</integer>
+			<key>Size</key><integer>6064221</integer>
+			<key>Total Time</key><integer>287033</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2010-04-30T17:18:22Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C6B77D88E85315AB</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The Royal We</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Sort Name</key><string>Royal We</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/02%20The%20Royal%20We.mp3</string>
+		</dict>
+		<key>92</key>
+		<dict>
+			<key>Track ID</key><integer>92</integer>
+			<key>Size</key><integer>7398924</integer>
+			<key>Total Time</key><integer>353697</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-04-19T08:47:42Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D46F96879F85BBC4</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Growing Old Is Getting Old</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/03%20Growing%20Old%20Is%20Getting%20Old.mp3</string>
+		</dict>
+		<key>94</key>
+		<dict>
+			<key>Track ID</key><integer>94</integer>
+			<key>Size</key><integer>6022014</integer>
+			<key>Total Time</key><integer>284865</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2010-08-11T15:30:36Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C81572DFCBEF225F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>It's Nice To Know You Work Alone</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/04%20It's%20Nice%20To%20Know%20You%20Work%20Alone.mp3</string>
+		</dict>
+		<key>96</key>
+		<dict>
+			<key>Track ID</key><integer>96</integer>
+			<key>Size</key><integer>7196514</integer>
+			<key>Total Time</key><integer>343588</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-04-01T05:56:36Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>C3E639420E300841</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Panic Switch</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/05%20Panic%20Switch.mp3</string>
+		</dict>
+		<key>98</key>
+		<dict>
+			<key>Track ID</key><integer>98</integer>
+			<key>Size</key><integer>6233962</integer>
+			<key>Total Time</key><integer>295471</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-04-19T09:04:06Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A6EC2F6A341E35F5</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Draining</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/06%20Draining.mp3</string>
+		</dict>
+		<key>100</key>
+		<dict>
+			<key>Track ID</key><integer>100</integer>
+			<key>Size</key><integer>6886521</integer>
+			<key>Total Time</key><integer>328071</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2009-04-05T19:52:58Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A3889536AC64FDC2</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Sort Of</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/07%20Sort%20Of.mp3</string>
+		</dict>
+		<key>102</key>
+		<dict>
+			<key>Track ID</key><integer>102</integer>
+			<key>Size</key><integer>5952392</integer>
+			<key>Total Time</key><integer>281364</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2010-08-11T15:52:34Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>6001DA9F85ABAA92</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Substitution</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/08%20Substitution.mp3</string>
+		</dict>
+		<key>104</key>
+		<dict>
+			<key>Track ID</key><integer>104</integer>
+			<key>Size</key><integer>5905086</integer>
+			<key>Total Time</key><integer>279588</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2012-10-25T04:09:32Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3F41E27EDB0C42F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Catch &#38; Release</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/09%20Catch%20&#38;%20Release.mp3</string>
+		</dict>
+		<key>106</key>
+		<dict>
+			<key>Track ID</key><integer>106</integer>
+			<key>Size</key><integer>6619525</integer>
+			<key>Total Time</key><integer>314723</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Date Modified</key><date>2010-08-11T16:01:56Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:53Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Part Of Gapless Album</key><true/>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B071BC7A15B25B00</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Surrounded</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Swoon</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Swoon/10%20Surrounded.mp3</string>
+		</dict>
+		<key>108</key>
+		<dict>
+			<key>Track ID</key><integer>108</integer>
+			<key>Size</key><integer>7829450</integer>
+			<key>Total Time</key><integer>244871</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2013-05-29T18:54:58Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>246</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>2E94135F3F7D8916</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Melatonin</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/01%20Melatonin.mp3</string>
+		</dict>
+		<key>110</key>
+		<dict>
+			<key>Track ID</key><integer>110</integer>
+			<key>Size</key><integer>6596472</integer>
+			<key>Total Time</key><integer>242181</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-05-25T23:42:42Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>9C7A2B41B99A9A99</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Well Thought Out Twinkles</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/02%20Well%20Thought%20Out%20Twinkles.mp3</string>
+		</dict>
+		<key>112</key>
+		<dict>
+			<key>Track ID</key><integer>112</integer>
+			<key>Size</key><integer>8399619</integer>
+			<key>Total Time</key><integer>291317</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-12-21T06:24:32Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>223</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>88B633ED121BAC6C</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Checkered Floor</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/03%20Checkered%20Floor.mp3</string>
+		</dict>
+		<key>114</key>
+		<dict>
+			<key>Track ID</key><integer>114</integer>
+			<key>Size</key><integer>8403696</integer>
+			<key>Total Time</key><integer>298684</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-04-12T22:35:14Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>217</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>468B41842BDC2F8F</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Little Lover's So Polite</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/04%20Little%20Lover's%20So%20Polite.mp3</string>
+		</dict>
+		<key>116</key>
+		<dict>
+			<key>Track ID</key><integer>116</integer>
+			<key>Size</key><integer>9916617</integer>
+			<key>Total Time</key><integer>320653</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-09-06T21:59:24Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>240</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3526282678</integer>
+			<key>Play Date UTC</key><date>2015-09-28T17:57:58Z</date>
+			<key>Rating</key><integer>20</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1987B50E84690351</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Future Foe Scenarios</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/05%20Future%20Foe%20Scenarios.mp3</string>
+		</dict>
+		<key>118</key>
+		<dict>
+			<key>Track ID</key><integer>118</integer>
+			<key>Size</key><integer>7325317</integer>
+			<key>Total Time</key><integer>253648</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-12-21T20:13:34Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>222</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>790D244EF0132109</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Waste It On</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/06%20Waste%20It%20On.mp3</string>
+		</dict>
+		<key>120</key>
+		<dict>
+			<key>Track ID</key><integer>120</integer>
+			<key>Size</key><integer>9804894</integer>
+			<key>Total Time</key><integer>354403</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-10-26T21:03:22Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>215</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BC08DB8060D22974</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Lazy Eye</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/07%20Lazy%20Eye.mp3</string>
+		</dict>
+		<key>122</key>
+		<dict>
+			<key>Track ID</key><integer>122</integer>
+			<key>Size</key><integer>9880430</integer>
+			<key>Total Time</key><integer>360881</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-12-21T07:03:46Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>212</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>DA2C8F81EDD8C9E3</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Rusted Wheel</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/08%20Rusted%20Wheel.mp3</string>
+		</dict>
+		<key>124</key>
+		<dict>
+			<key>Track ID</key><integer>124</integer>
+			<key>Size</key><integer>8252797</integer>
+			<key>Total Time</key><integer>292414</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2010-06-09T23:09:02Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>218</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>EE43F9DCB01A88F8</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Dream At Tempo 119</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/09%20Dream%20At%20Tempo%20119.mp3</string>
+		</dict>
+		<key>126</key>
+		<dict>
+			<key>Track ID</key><integer>126</integer>
+			<key>Size</key><integer>8241614</integer>
+			<key>Total Time</key><integer>340584</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-12-21T06:33:32Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>187</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>A924778DB162CC6B</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Three Seed</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/10%20Three%20Seed.mp3</string>
+		</dict>
+		<key>128</key>
+		<dict>
+			<key>Track ID</key><integer>128</integer>
+			<key>Size</key><integer>9690934</integer>
+			<key>Total Time</key><integer>361116</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Year</key><integer>2006</integer>
+			<key>Date Modified</key><date>2008-03-19T02:48:16Z</date>
+			<key>Date Added</key><date>2015-09-28T17:55:57Z</date>
+			<key>Bit Rate</key><integer>208</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D37BB64C91758F13</string>
+			<key>Track Type</key><string>File</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Common Reactor</string>
+			<key>Artist</key><string>Silversun Pickups</string>
+			<key>Album</key><string>Carnavas</string>
+			<key>Genre</key><string>Indie</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Silversun%20Pickups/Carnavas/11%20Common%20Reactor.mp3</string>
+		</dict>
+		<key>130</key>
+		<dict>
+			<key>Track ID</key><integer>130</integer>
+			<key>Size</key><integer>8782749</integer>
+			<key>Total Time</key><integer>242580</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:09:20Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F65350A5F614F12E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Mechanical</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/01%20Mechanical.m4a</string>
+		</dict>
+		<key>132</key>
+		<dict>
+			<key>Track ID</key><integer>132</integer>
+			<key>Size</key><integer>9590538</integer>
+			<key>Total Time</key><integer>261211</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:09:31Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>342F0200F293D120</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Broken</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/02%20Broken.m4a</string>
+		</dict>
+		<key>134</key>
+		<dict>
+			<key>Track ID</key><integer>134</integer>
+			<key>Size</key><integer>9480761</integer>
+			<key>Total Time</key><integer>252624</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:21:28Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Rating</key><integer>60</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F4204CE95B6F7BA9</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Bayou</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/03%20Bayou.m4a</string>
+		</dict>
+		<key>136</key>
+		<dict>
+			<key>Track ID</key><integer>136</integer>
+			<key>Size</key><integer>10138711</integer>
+			<key>Total Time</key><integer>269201</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:25:38Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>268F501E2BB31119</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Comes the Sun</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/04%20Comes%20the%20Sun.m4a</string>
+		</dict>
+		<key>138</key>
+		<dict>
+			<key>Track ID</key><integer>138</integer>
+			<key>Size</key><integer>11421505</integer>
+			<key>Total Time</key><integer>309118</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:10:23Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>184201FD5326CFC5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>The River</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Sort Name</key><string>River</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/05%20The%20River.m4a</string>
+		</dict>
+		<key>140</key>
+		<dict>
+			<key>Track ID</key><integer>140</integer>
+			<key>Size</key><integer>7474983</integer>
+			<key>Total Time</key><integer>210728</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:34:54Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AF349ECFADEF3E4E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Glory Under Dangerous Skies</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/06%20Glory%20Under%20Dangerous%20Skies.m4a</string>
+		</dict>
+		<key>142</key>
+		<dict>
+			<key>Track ID</key><integer>142</integer>
+			<key>Size</key><integer>9146777</integer>
+			<key>Total Time</key><integer>249672</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:10:48Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>1007B1B60730BAED</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Morning Dies Here</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/07%20Morning%20Dies%20Here.m4a</string>
+		</dict>
+		<key>144</key>
+		<dict>
+			<key>Track ID</key><integer>144</integer>
+			<key>Size</key><integer>8375444</integer>
+			<key>Total Time</key><integer>230151</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:10:59Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>5D8345270AE46AB5</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Black Roses</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/08%20Black%20Roses.m4a</string>
+		</dict>
+		<key>146</key>
+		<dict>
+			<key>Track ID</key><integer>146</integer>
+			<key>Size</key><integer>9232575</integer>
+			<key>Total Time</key><integer>256325</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:11:09Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3526282655</integer>
+			<key>Play Date UTC</key><date>2015-09-28T17:57:35Z</date>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Rating</key><integer>40</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>55CE3155FD851DFD</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>Still I Won't Look Down</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/09%20Still%20I%20Won't%20Look%20Down.m4a</string>
+		</dict>
+		<key>148</key>
+		<dict>
+			<key>Track ID</key><integer>148</integer>
+			<key>Size</key><integer>10076265</integer>
+			<key>Total Time</key><integer>286821</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:11:21Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>336E71F4E361AFD3</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>God Is In the White Rice</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/10%20God%20Is%20In%20the%20White%20Rice.m4a</string>
+		</dict>
+		<key>150</key>
+		<dict>
+			<key>Track ID</key><integer>150</integer>
+			<key>Size</key><integer>5127981</integer>
+			<key>Total Time</key><integer>139691</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-14T22:11:34Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>AC2844E76CF89842</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>All Forgiven</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/11%20All%20Forgiven.m4a</string>
+		</dict>
+		<key>152</key>
+		<dict>
+			<key>Track ID</key><integer>152</integer>
+			<key>Size</key><integer>10483366</integer>
+			<key>Total Time</key><integer>292799</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>12</integer>
+			<key>Track Count</key><integer>12</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-10-07T16:19:47Z</date>
+			<key>Date Added</key><date>2015-09-28T17:56:18Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3526282658</integer>
+			<key>Play Date UTC</key><date>2015-09-28T17:57:38Z</date>
+			<key>Release Date</key><date>2014-10-07T07:00:00Z</date>
+			<key>Rating</key><integer>100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>65BA42D2FEF2EBCE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Purchased</key><true/>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+			<key>Name</key><string>We Are Water</string>
+			<key>Artist</key><string>Moist</string>
+			<key>Album Artist</key><string>Moist</string>
+			<key>Composer</key><string>David Usher, Mark Makoway, Kevin Young, Jonathan Gallivan, Louis Lalancette &#38; Francis Fillion</string>
+			<key>Album</key><string>Glory Under Dangerous Skies</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Location</key><string>file:///Users/conicoll/Music/iTunes%20Media/Music/Moist/Glory%20Under%20Dangerous%20Skies/12%20We%20Are%20Water.m4a</string>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>154</integer>
+			<key>Playlist Persistent ID</key><string>89DD0ED24F949B92</string>
+			<key>All Items</key><true/>
+			<key>Visible</key><false/>
+			<key>Name</key><string>####!####</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>88</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>90</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>92</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>94</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>96</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>98</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>152</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>190</integer>
+			<key>Playlist Persistent ID</key><string>A9AC54FF5432255D</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Music</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAQIbEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAQIbEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIIAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIIAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>88</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>90</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>92</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>94</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>96</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>98</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>152</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>226</integer>
+			<key>Playlist Persistent ID</key><string>430D3CE6F3CB523B</string>
+			<key>Distinguished Kind</key><integer>47</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Music Videos</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIYAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIYAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>229</integer>
+			<key>Playlist Persistent ID</key><string>AAAD43D7AB85364B</string>
+			<key>Distinguished Kind</key><integer>7</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Rentals</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAEIAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAEIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAIAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAIAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>232</integer>
+			<key>Playlist Persistent ID</key><string>849D439FFFE1015E</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Movies</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>235</integer>
+			<key>Playlist Persistent ID</key><string>B14E0108B25F2367</string>
+			<key>Distinguished Kind</key><integer>48</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Home Videos</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAABAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIYAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIYAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>238</integer>
+			<key>Playlist Persistent ID</key><string>749E6B89873543EC</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+			<key>Name</key><string>TV Shows</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>241</integer>
+			<key>Playlist Persistent ID</key><string>0CDB58552133434B</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+			<key>Visible</key><false/>
+			<key>Name</key><string>Podcasts</string>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>248</integer>
+			<key>Playlist Persistent ID</key><string>92147225F127434C</string>
+			<key>Distinguished Kind</key><integer>31</integer>
+			<key>iTunesU</key><true/>
+			<key>All Items</key><true/>
+			<key>Visible</key><false/>
+			<key>Name</key><string>iTunes U</string>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>251</integer>
+			<key>Playlist Persistent ID</key><string>6E98788C54247059</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+			<key>Visible</key><false/>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>254</integer>
+			<key>Playlist Persistent ID</key><string>DBF16E3AC2FFB091</string>
+			<key>Distinguished Kind</key><integer>57</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Books</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAABAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>257</integer>
+			<key>Playlist Persistent ID</key><string>46DDAFF45653902C</string>
+			<key>Distinguished Kind</key><integer>59</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>PDFs</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAACAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>260</integer>
+			<key>Playlist Persistent ID</key><string>0F580609A9C398B5</string>
+			<key>Distinguished Kind</key><integer>58</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>263</integer>
+			<key>Playlist Persistent ID</key><string>E84A6A3BAA0FFDB6</string>
+			<key>Distinguished Kind</key><integer>6</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Tones</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAEAQAAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAEAQAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AgAEAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAIKAE
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAIKAEAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>266</integer>
+			<key>Playlist Persistent ID</key><string>DC15FEEE89B4E634</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Genius</string>
+			<key>Smart Info</key>
+			<data>
+			AAABAwAAAAIAAAAZAAABAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>269</integer>
+			<key>Playlist Persistent ID</key><string>50412AB71806A053</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>90’s Music</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>272</integer>
+			<key>Playlist Persistent ID</key><string>A5A06C2EC92D8544</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Classical Music</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>275</integer>
+			<key>Playlist Persistent ID</key><string>59A460EFCA474288</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>152</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>280</integer>
+			<key>Playlist Persistent ID</key><string>14FDD86B23091D65</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Recently Added</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>88</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>90</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>92</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>94</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>96</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>98</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>100</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>102</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>104</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>106</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>108</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>110</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>112</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>114</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>120</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>122</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>124</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>126</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>128</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>130</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>132</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>134</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>136</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>138</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>140</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>142</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>148</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>150</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>152</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>316</integer>
+			<key>Playlist Persistent ID</key><string>7A01D9CA196CD313</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Recently Played</string>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>322</integer>
+			<key>Playlist Persistent ID</key><string>2208F1CE3678C7B8</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>152</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>146</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>116</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>328</integer>
+			<key>Playlist Persistent ID</key><string>BFBE9C4BBC8CF715</string>
+			<key>All Items</key><true/>
+			<key>Name</key><string>AwesomePlaylist</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>144</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>118</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>94</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Playlist ID</key><integer>334</integer>
+			<key>Playlist Persistent ID</key><string>3E57348B4B994A84</string>
+			<key>Distinguished Kind</key><integer>50</integer>
+			<key>All Items</key><true/>
+			<key>Name</key><string>Books</string>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>80</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>82</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>84</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>86</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+	<key>Music Folder</key><string>file:///Users/conicoll/Music/iTunes%20Media/</string>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+solrQueryApi:
+    path:     /solr/getPaginatedTracks/{start}/{end}
+    defaults:
+        _controller: cdnicollsolrMusicBundle:Api/SolrQuery:getPaginatedTracks
+        start: 0
+        end: 20
+    methods: [GET]

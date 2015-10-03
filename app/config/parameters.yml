@@ -1,0 +1,7 @@
+# This file is auto-generated during the composer install
+parameters:
+    solr.core: solrMusic
+    solr.host: localhost
+    solr.port: 8983
+    solr.path: /solr/
+    secret: ThisTokenIsNotSoSecretChangeIt

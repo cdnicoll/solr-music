@@ -1,0 +1,7 @@
+cdnicollsolr_music:
+    resource: "@cdnicollsolrMusicBundle/Resources/config/routing.yml"
+    prefix:   /
+
+cdnicollsolr_music_api:
+    resource: "@cdnicollsolrMusicBundle/Resources/config/routing_api.yml"
+    prefix:   /api

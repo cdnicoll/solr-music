@@ -1,0 +1,3 @@
+cdnicollsolr_music_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: cdnicollsolrMusicBundle:Default:index }

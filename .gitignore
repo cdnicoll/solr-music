@@ -1,0 +1,74 @@
+#composer
+/composer.phar
+/app/config/developer_overrides.yml
+/app/Resources/beta-signup/redis_beta_signup_dump.json
+
+# cache, logs, etc
+/app/bootstrap.php.cache
+/app/bootstrap_cache.php.cache
+/app/cache/*
+/app/logs/*
+/build/*
+/bin/
+/web/css/
+/web/js/
+/sharedBundles/*
+index.html
+
+# vendor
+/vendor
+/node_modules
+# translations
+/app/Resources/translations/*
+src/Pulse/EASFCFrontendCommonBundle/Resources/public/src/translations/
+# bundle static
+/web/bundles/*
+/web/images/*
+
+#Primer Bundle
+#/node_modules/*
+/build_data/*
+/src/EASFC/WebBundle/Resources/public/.tmp/*
+/src/EASFC/WebBundle/Resources/public/dist/*
+src/EASFC/CreationCentreBundle/Resources/public/dist/*
+src/Pulse/FifaInteractiveWidgetBundle/Resources/public/dist/*
+src/Pulse/EASFCFrontendCommonBundle/Resources/public/dist/*
+/grunt/task-generated/*
+/app/Resources/external/*
+/grunt/task-generated/*
+.sass_cache
+.tmp
+.BridgeLabelsAndRatings
+
+#project files
+/src/EASFC/WebBundle/Controller/DefaultController.php
+
+# OS garbage, Editors, IDEs, etc
+.DS_Store
+.svn
+code_coverage
+*~
+*.swp
+coverage
+.coverage
+nbproject
+.nbproject
+.settings
+.settings/.*
+.project
+project
+*.project
+.buildpath
+*.db
+*.tmproj
+*.sublime-project
+.idea
+*.idea/*
+NaN/
+.externalToolBuilders/*
+
+# Vagrant files
+/vagrant/easfc.box
+
+# Pulse bundle dist files
+/src/Pulse/EASFCFrontendCommonBundle/Resources/public/dist/**/*
